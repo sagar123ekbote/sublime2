@@ -858,6 +858,17 @@ section
 {
 	margin-top: 7px;
 }
+.home_textoffers
+{
+	size: 100px;
+	margin-top: 7px;
+} 
+.home_textoffers p
+{
+
+	font-size: 40px;
+	color: #FFFFFF;
+}
 .home_text p
 {
 	color: #FFFFFF;
